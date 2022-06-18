@@ -112,11 +112,10 @@ If you have a suggestion that would make this better, please fork the repo and c
 ---
 
 <div align="center">
-### **AutoHotKey-Script-Pack** 
-  
-> *Bottom Text*
-  
+> **AutoHotKey-Script-Pack** 
+
 ---
+
 </div>
 
 
