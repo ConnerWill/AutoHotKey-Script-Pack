@@ -1,0 +1,22 @@
+----System-----	
+C:\	C:\
+USERNAME H:\	C:\
+	H:\
+Windows	C:\windows
+Program Files	C:\Program Files
+Program Files (x86)	C:\Program Files (x86)
+Temporary	C:\Users\USERNAME\temporary
+---------------	---------------
+----Scripts----	C:\Users\USERNAME\Scripts
+AutoHotKey Scripts	C:\Users\USERNAME\Scripts\AutoHotKey
+PowerShell Scripts	C:\Users\USERNAME\Scripts\PowerShell
+Batch Scripts	C:\Users\USERNAME\Scripts\Batch
+---------------	---------------
+---Documents---	C:\Users\USERNAME\Documents
+---------------	---------------
+-----Icons-----	C:\Users\USERNAME\Pictures\Icons
+App-Icons	C:\Users\USERNAME\Pictures\Icons\App-Icons
+Icon-Scripts	C:\Users\USERNAME\Pictures\Icons\Scripts
+Windows-Icons	C:\Users\USERNAME\Pictures\Icons\Windows-Icons
+---------------	---------------
+---------------	---------------
