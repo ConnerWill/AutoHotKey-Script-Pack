@@ -48,6 +48,7 @@ Collection of AutoHotKey scripts that I find handy. *Not all were written by mys
 > List of scripts included
 * AutomateMyTask
 * AutoStartupToggle
+* CAPshift
 * ClipStep2.0
 * ColorPicker
 * DirMenu

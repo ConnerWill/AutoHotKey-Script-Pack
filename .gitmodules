@@ -1,0 +1,3 @@
+[submodule "src/CAPshift"]
+	path = src/CAPshift
+	url = https://github.com/connerwill/CAPshift
