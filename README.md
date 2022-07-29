@@ -1,6 +1,6 @@
 <div align="center">
 
-# **AutoHotKey-Script-Pack**
+# **ＡｕｔｏＨｏｔＫｅｙ－Ｓｃｒｉｐｔ－Ｐａｃｋ**
 
 > ***AutoHotKey-Script-Pack** is a collection of AutoHotKey scripts that I find handy*
 
